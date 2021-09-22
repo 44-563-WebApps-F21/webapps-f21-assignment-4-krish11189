@@ -29,3 +29,14 @@
 .sir-robert-chiltern {
     color: darkslategray;
 }
+
+table,th,td{
+    border: 5px solid navy;
+    border-color:black;
+    text-align: center;
+    padding: 13px;
+    margin: 25px 50px 75px 100px;
+}
+tr:nth-child(even){
+    background-color:orangered;
+}
