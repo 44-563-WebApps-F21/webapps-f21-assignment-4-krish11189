@@ -51,3 +51,13 @@ sir-robert-chiltern:hover{
     background-color: rgb(95, 110, 194);
     text-shadow: 3px 3px green;
 }
+
+.navbar {
+    margin: auto;
+    width: 75%;
+    background-color: gray;
+    border: 3px solid rgb(53, 182, 117);
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
